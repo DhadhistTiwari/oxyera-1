@@ -1,7 +1,7 @@
 # Oxyera
 
 Oxyera is a web-based project designed to [Real-time Air Quality Visualizer]. It is built using **HTML**, **JavaScript**, and designed for easy deployment.
-
+## Clik link to visit [https://dhadhisttiwari.github.io/oxyera-1/]
 ## Features
 
 - Feature 1: [City-wise AQI]
