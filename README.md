@@ -27,7 +27,7 @@
 
 ## Screenshots 🖼️
 
-![Oxyera Screenshot](link-to-your-screenshot.png)  
+![Oxyera Screenshot](OxyerImg.png)  
 *Replace with relevant screenshots to showcase the interface and features.*  
 
 ---
